@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/other-coronary-heart-disease-artery---primary.py
+inputModule3:
+  class: File
+  path: python/angioplasty-other-coronary-heart-disease---primary.py
+inputModule4:
+  class: File
+  path: python/other-coronary-heart-disease-cardiac---primary.py
+inputModule5:
+  class: File
+  path: python/other-coronary-heart-disease---primary.py
+inputModule6:
+  class: File
+  path: python/other-coronary-heart-disease-ischaemia---primary.py
+inputModule7:
+  class: File
+  path: python/other-coronary-heart-disease-infarct---primary.py
+inputModule8:
+  class: File
+  path: python/other-coronary-heart-disease-repair---primary.py
+inputModule9:
+  class: File
+  path: python/other-coronary-heart-disease-vessel---primary.py
+inputModule10:
+  class: File
+  path: python/other-coronary-heart-disease-bypass---primary.py
+inputModule11:
+  class: File
+  path: python/other-coronary-heart-disease-review---primary.py
+inputModule12:
+  class: File
+  path: python/cardiovascular-other-coronary-heart-disease---primary.py
+inputModule13:
+  class: File
+  path: python/other-coronary-heart-disease-aneurysm---primary.py
+inputModule14:
+  class: File
+  path: python/atherosclerotic-other-coronary-heart-disease---primary.py
+inputModule15:
+  class: File
+  path: python/transluminal-other-coronary-heart-disease---primary.py
+inputModule16:
+  class: File
+  path: python/chronic-other-coronary-heart-disease---primary.py
+inputModule17:
+  class: File
+  path: python/other-coronary-heart-disease-operation---primary.py
+inputModule18:
+  class: File
+  path: python/diagnostic-other-coronary-heart-disease---primary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
